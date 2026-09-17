@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! Eu sou Rafael Pinheiro
 
-<!--
-**rafadev0/rafadev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de programação com foco em Python.
 
-Here are some ideas to get you started:
+Atualmente estou estudando também Java, PHP, HTML e CSS, enquanto desenvolvo projetos para colocar meus conhecimentos em prática.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+- Estudante de programação
+- Foco principal em Python
+- Aprendendo desenvolvimento web
+- Buscando evoluir com projetos práticos
+
+## Objetivo
+
+Construir uma base sólida em programação, desenvolver projetos reais e evoluir profissionalmente na área de tecnologia.
